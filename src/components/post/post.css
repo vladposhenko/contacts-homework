@@ -1,0 +1,9 @@
+.posts__item {
+    transition: all ease 1s;
+}
+
+.posts__item:hover {
+    background-color: rgba(144, 165, 243, 0.26);
+    transform: scale(105%);
+    cursor: grab;
+}
